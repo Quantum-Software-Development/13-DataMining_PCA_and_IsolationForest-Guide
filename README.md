@@ -6,7 +6,7 @@
 
 <br><br>
 
-# 13- [Data Mining]()  / [Principal Component Analysis (PCA) e Isolation Forest algorithms]()
+# 13- [Data Mining]()  / [Principal Component Analysis (PCA) and Isolation Forest Algorithms]()
 
 
 
