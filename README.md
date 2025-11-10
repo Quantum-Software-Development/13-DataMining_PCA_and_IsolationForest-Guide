@@ -226,13 +226,13 @@ plt.show()
 
 <br>
 
-| Method             | Type        | Use Case                               | Notes                                      |
+| [Method]()             | [Type]()        | [Use Case]()                               | [Notes]()                                      |
 |-------------------|------------|----------------------------------------|--------------------------------------------|
-| PCA               | Linear     | Large, structured datasets             | Fast, interpretable, reduces dimensionality |
-| t-SNE             | Non-linear | Visualizing high-dimensional data      | Better for clusters, slower                 |
-| Isolation Forest  | Unsupervised| Outlier / anomaly detection            | Works well with high-dimensional data, unsupervised |
-| DBSCAN            | Clustering | Detecting clusters of arbitrary shape | Does not require number of clusters, handles noise |
-| K-Means           | Clustering | Partitioning data into k clusters      | Assumes spherical clusters, fast on large datasets |
+| [PCA]()               | Linear     | Large, structured datasets             | Fast, interpretable, reduces dimensionality |
+| [t-SNE]()             | Non-linear | Visualizing high-dimensional data      | Better for clusters, slower                 |
+| [Isolation Forest]()  | Unsupervised| Outlier / anomaly detection            | Works well with high-dimensional data, unsupervised |
+| [DBSCAN]()            | Clustering | Detecting clusters of arbitrary shape | Does not require number of clusters, handles noise |
+| [K-Means]()           | Clustering | Partitioning data into k clusters      | Assumes spherical clusters, fast on large datasets |
 
 
 <br><br>
