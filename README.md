@@ -246,7 +246,7 @@ plt.show()
 
 <br><br>
 
-## PCA Implementation (Code + Visualization)
+## [PCA Implementation (Code + Visualization)]()
 
 Here’s a simple example of PCA using the Iris dataset:
 
