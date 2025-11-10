@@ -11,7 +11,7 @@
 
 # 13- [Data Mining]()  / [Principal Component Analysis (PCA) and Isolation Forest Algorithms]()
 
-### _An easy guide for everyone!_
+### <p align="center"> _An easy guide for everyone!_
 
 
 
