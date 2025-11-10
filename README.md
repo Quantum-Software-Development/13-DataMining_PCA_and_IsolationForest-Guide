@@ -319,7 +319,16 @@ plt.title("Isolation Forest - Anomaly Detection")
 plt.show()
 ```
 
+
+<br>
+
+### 🔗 Notebook completo: [IsolationForest_Detection.ipynb]()
+
 <br><br>
+
+
+
+
 
 
 
