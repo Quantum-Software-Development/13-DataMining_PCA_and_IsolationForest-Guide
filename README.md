@@ -173,8 +173,13 @@ It isolates anomalies by randomly splitting data and measuring how quickly a sam
 
 <br><br>
 
+## 🧹 Steps to Prepare Your Dataset (Data Cleaning)
 
+- Remove missing or duplicate values.  
+- Normalize and scale features.  
+- Visualize your dataset with **scatter** and **box plots** to spot trends and outliers.
 
+<br><br>
 
 
 
