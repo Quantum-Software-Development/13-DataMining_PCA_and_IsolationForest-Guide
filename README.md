@@ -209,12 +209,17 @@ plt.show()
 
 <br><br>
 
+## [How to Choose the Right Algorithm]()
 
+[-]() For structured numeric data → use PCA
+[-]() For anomaly detection → use Isolation Forest
+[-]() For non-linear structures → try t-SNE or DBSCAN
+[-]() For spiral or irregular data → prefer DBSCAN over K-Means
 
 
 <br><br>
 
-## 🔬 Dimensionality Reduction Comparison: PCA vs. t-SNE
+## 🔬 [Dimensionality Reduction Comparison: PCA vs. t-SNE]()
 
 <br>
 
