@@ -322,7 +322,7 @@ plt.show()
 
 <br>
 
-### 🔗 Notebook completo: [IsolationForest_Detection.ipynb]()
+### 🔗 Notebook completo: [IsolationForest_Detection.ipynb](https://github.com/Quantum-Software-Development/13-DataMining_PCA_and_IsolationForest-Guide/blob/c855c0637f8b7b58dac3af705488b4f4c7e560b8/Isolation%20Forest%20Outlier%20Detection/Code/Isolation_Forest_Outlier_Detection.ipynb)
 
 <br><br>
 
