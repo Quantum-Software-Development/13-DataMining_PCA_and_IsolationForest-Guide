@@ -237,9 +237,13 @@ plt.show()
 
 <br><br>
 
+## 🌀 [Spiral-shaped Datasets: K-Means vs. DBSCAN]()
 
+[-]()  ***K-Means*** assumes circular clusters — not good for complex shapes.
 
+[-]()  ***DBSCAN*** can detect arbitrary-shaped clusters (e.g., spirals) and noise.
 
+<br><br>
 
 
 
