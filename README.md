@@ -165,6 +165,18 @@ It isolates anomalies by randomly splitting data and measuring how quickly a sam
 
 <br><br>
 
+## How does Isolation Forest Work ?
+
+1. Build multiple random trees.  
+2. Each split isolates points based on random features.  
+3. Fewer splits = more likely an anomaly.  
+4. Compute anomaly scores and visualize them.
+
+<br><br>
+
+
+
+
 
 
 
