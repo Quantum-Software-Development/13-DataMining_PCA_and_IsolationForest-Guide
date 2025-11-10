@@ -11,7 +11,7 @@
 
 # 13- [Data Mining]()  / [Principal Component Analysis (PCA) and Isolation Forest Algorithms]()
 
-### <p align="center"> _An easy guide for everyone!_
+### <p align="center"> _A practical guide to dimensionality reduction and anomaly detection. An easy guide for everyone !_
 
 
 <br><br>
